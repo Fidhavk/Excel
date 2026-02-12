@@ -38,11 +38,11 @@ The dataset contains the following columns:
 -Monthly Sales Trend (Line Chart)
 
 - Order Status Breakdown
-- 
+
 -Top Products by Sales
 
 - Customer Location Analysis
-- 
+ 
 -Interactive Filters (Slicers)
 
  ## Tools Used
